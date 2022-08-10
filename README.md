@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MightyPickle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yulia Ten
+- 🌱 I’m currently learning Vue.js, Three.js
+- 📫 How to reach me:
+  - 📧 uliaten10@gmail.com
+  - 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MightyPickle&theme=tokyonight)
 
