@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning Vue.js, Three.js
 - 📫 How to reach me:
- - 📧 uliaten10@gmail.com
- - 🗨️ https://t.me/U_ten
+  - 📧 uliaten10@gmail.com
+  - 🗨️ https://t.me/U_ten
 
 
 <!---
