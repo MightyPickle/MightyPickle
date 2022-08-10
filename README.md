@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yulia Ten
+# 👋 Hi, I’m Yulia Ten
 - 🌱 I’m currently learning Vue.js, Three.js
 - 📫 How to reach me:
   - 📧 uliaten10@gmail.com
