@@ -16,10 +16,9 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Contacts
-- 📫 How to reach me:
-  - 📧 uliaten10@gmail.com
-  - 🗨️ https://t.me/U_ten
+## Contacts
+📧 uliaten10@gmail.com
+🗨️ https://t.me/U_ten
 
 
 <!---
