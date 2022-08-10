@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MightyPickle&theme=tokyonight)
 
 <!---
 MightyPickle/MightyPickle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
