@@ -17,8 +17,8 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## Contacts
-📧 uliaten10@gmail.com
-🗨️ https://t.me/U_ten
+- 📧 uliaten10@gmail.com
+- 🗨️ https://t.me/U_ten
 
 
 <!---
