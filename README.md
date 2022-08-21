@@ -1,6 +1,17 @@
 # Hi, I’m Yulia Ten
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MightyPickle&theme=tokyonight)
 
+## Contacts
+<div align="center">
+- Telegram:<a href="https://t.me/U_ten"> @u_ten </a>
+- email: uliaten10@gmail.com <br>
+
+
+<a href="mailto:uliaten@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://t.me/U_ten">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/yulia-ten-470526240/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+</div>
+
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,14 +27,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## Contacts
-- Telegram:<a href="https://t.me/U_ten"> @u_ten </a>
-- email: uliaten10@gmail.com <br>
-
-
-<a href="mailto:uliaten@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://t.me/U_ten">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/yulia-ten-470526240/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
 <!---
